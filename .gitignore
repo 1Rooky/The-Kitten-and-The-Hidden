@@ -48,9 +48,6 @@ ExportedObj/
 *.VC.db
 
 # Unity3D generated meta files
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
 *.meta
 
 # Unity3D generated file on crash reports
@@ -72,15 +69,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 fmod_editor.log
-Assets/Project/Scenes/Development Scene/Art/Yasmeen/Scenes/TEXTURED_room3.unity
-Assets/Project/Scenes/Development Scene/Art/Yasmeen/test.meta
-Assets/Project/Scenes/Development Scene/Art/Yasmeen/test/tree.fbx
-Assets/Project/Scenes/Development Scene/Art/Yasmeen/test/tree.fbx.meta
-Assets/System/Plugins/FMOD/Cache/Editor/FMODStudioCache.asset
-Assets/System/Epic Toon FX/Upgrade/ETFX URP Upgrade (2020.3.45f1).unitypackage.meta
-Assets/System/VFX Settings/Settings/Built-in/Built-in.unitypackage.meta
-Assets/System/VFX Settings/Settings/URP/URP_10.3.2.unitypackage.meta
-Assets/System/VFX Settings/Settings/URP/URP_7.3.1.unitypackage.meta
 
 # Packages from Unity Asset Store and Downloaded Plugins
 Assets/System/Plugins/*
@@ -89,4 +77,3 @@ Assets/System/Kinematic Character Controller/*
 Assets/System/TutorialInfo/*
 Assets/Cute UI _ Interact Sound Effects Pack/*
 Assets/TextMesh Pro/*
-
