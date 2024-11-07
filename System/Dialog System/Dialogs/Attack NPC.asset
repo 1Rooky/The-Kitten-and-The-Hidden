@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de941ea5289e528478b9a1cc0270304e, type: 3}
+  m_Name: Attack NPC
+  m_EditorClassIdentifier: 
+  _dialog:
+  - _name: NPC
+    _image: {fileID: 0}
+    _text:
+    - "Welcome my friends, you have reached here. \n(Press T to continue the script)"
+    - The ghost has to possess the turret to shoot the enemy in front of both of
+      you.
+  _afterDialog: []

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de941ea5289e528478b9a1cc0270304e, type: 3}
+  m_Name: Level 2 - Room 1 - Dialog 2
+  m_EditorClassIdentifier: 
+  _dialog:
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "Well, well, I must say, I\u2019m surprised you two found me."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - "(Curiously) Meow, we\u2019re always up for a challenge."
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Nods) Yes, we\u2019ve come a long way to find you."
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "(Chuckles) Indeed you have. Your determination is commendable. As a reward,
+      I\u2019ll teleport you both to your next location."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Excitedly) Meow, thank you!
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Gratefully) We appreciate it. We\u2019re ready."
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Smiling) Hold on tight. The journey continues. Teleporting you now.
+    _audioClip: {fileID: 0}
+  - _name: Cat & Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(In unison) Let\u2019s go!"
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (As they vanish) Good luck, brave ones. The next part of your adventure awaits!
+    _audioClip: {fileID: 0}
+  _afterDialog: []

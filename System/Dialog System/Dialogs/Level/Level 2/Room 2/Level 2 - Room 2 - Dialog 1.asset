@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de941ea5289e528478b9a1cc0270304e, type: 3}
+  m_Name: Level 2 - Room 2 - Dialog 1
+  m_EditorClassIdentifier: 
+  _dialog:
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "Cat, Ghost, you must listen carefully. There\u2019s an urgent task ahead."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Ears perk up) Meow? What is it?
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Floats closer) Yes, tell us. We\u2019re ready."
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - You need to destroy an enormous number of enemies as soon as possible. They
+      are gathering in great numbers and pose a significant threat.
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - "(Determinedly) Meow, we\u2019ll take them down."
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Nods) We\u2019ll act quickly and decisively."
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "Good. Time is of the essence. Use all your skills and work together. You must
+      stop them before it\u2019s too late."
+    _audioClip: {fileID: 0}
+  _afterDialog: []

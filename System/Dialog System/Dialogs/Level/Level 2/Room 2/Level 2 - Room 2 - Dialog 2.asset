@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de941ea5289e528478b9a1cc0270304e, type: 3}
+  m_Name: Level 2 - Room 2 - Dialog 2
+  m_EditorClassIdentifier: 
+  _dialog:
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - Cat, Ghost, congratulations on destroying the enemies!
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Purring) Meow, we did it!
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Glowing) Yes, they\u2019re all defeated."
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "Your bravery and teamwork were exceptional. You\u2019ve protected the realm."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Nods) Meow, it was tough, but we succeeded.
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Nods) We couldn\u2019t have done it without each other."
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - Well done. Celebrate your victory and prepare for the next challenge.
+    _audioClip: {fileID: 0}
+  _afterDialog: []

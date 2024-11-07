@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de941ea5289e528478b9a1cc0270304e, type: 3}
+  m_Name: Level 1 - Room 2 - Dialog 2
+  m_EditorClassIdentifier: 
+  _dialog:
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "(Approaches the Cat and the Ghost with a beaming smile) Well done, both of
+      you! I heard the news \u2013 you took down all the enemies. You\u2019ve done
+      a fantastic job!"
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Purring loudly) Meow! It was a tough fight, but we did it.
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - (Nodding proudly) Yes, it was a great challenge, but together we prevailed.
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Reaches into their bag) I have something special for you as a reward. Cat,
+      this is for you.
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Eyes widening in curiosity) Meow? What is it?
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Hands over a beautifully crafted wand) This wand has a special enchantment.
+      It allows you to summon a turret.
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Takes the wand carefully, inspecting it) Meow! A turret?
+    _audioClip: {fileID: 0}
+  - _name: NPC
+    _image: {fileID: 0}
+    _text:
+    - "(Smiling) It\u2019s simple. Cat, you use the wand to summon the turret. Once
+      it\u2019s summoned, Ghost, you can possess it and control its attacks. It will
+      give you both an edge in future battles."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Excitedly) Meow! This will be so useful.
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - (Nodding in agreement) Indeed, this will make us even stronger. Thank you.
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "(Nods) You\u2019ve earned it. Keep up the good work, and remember to use it
+      wisely. This is just the beginning \u2013 there are more challenges ahead,
+      but I know you two can handle anything."
+    _audioClip: {fileID: 0}
+  _afterDialog: []

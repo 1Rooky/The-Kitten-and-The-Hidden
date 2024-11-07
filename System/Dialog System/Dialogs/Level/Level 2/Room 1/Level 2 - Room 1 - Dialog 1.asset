@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de941ea5289e528478b9a1cc0270304e, type: 3}
+  m_Name: Level 2 - Room 1 - Dialog 1
+  m_EditorClassIdentifier: 
+  _dialog:
+  - _name: The Crystal
+    _image: {fileID: 0}
+    _text:
+    - "Cat, to pass this level, you need to jump onto the platform ahead. Be careful
+      of the water below; it\u2019s dangerous."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Ears perk up) Meow? Who are you?
+    _audioClip: {fileID: 0}
+  - _name: The Crystal
+    _image: {fileID: 0}
+    _text:
+    - Ghost, you can float up to pass the level. The water won't affect you, but
+      stay close to help Cat if needed.
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Nods) Understood. I\u2019ll stay nearby."
+    _audioClip: {fileID: 0}
+  - _name: The Crystal
+    _image: {fileID: 0}
+    _text:
+    - Alright, Cat, make your jump and watch your step. Ghost, float up and guide
+      Cat safely.
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Determinedly) Meow, here I go!
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Floating up) I\u2019m right here with you. Let\u2019s pass this level together."
+    _audioClip: {fileID: 0}
+  _afterDialog:
+  - _name: The Crystal
+    _image: {fileID: 0}
+    _text:
+    - "Cat, remember, you need to jump onto the platform ahead to pass this level.
+      Be very careful of the water below; it\u2019s dangerous."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - "(Nods, eyes alert) Meow, I remember. I\u2019ll watch my step."
+    _audioClip: {fileID: 0}
+  - _name: The Crystal
+    _image: {fileID: 0}
+    _text:
+    - "Ghost, don\u2019t forget that you can float up to pass the level. The water
+      won\u2019t affect you, but stay close to assist Cat if needed."
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Nods reassuringly) Yes, I\u2019ll stay nearby and keep an eye on Cat."
+    _audioClip: {fileID: 0}
+  - _name: The Crystal
+    _image: {fileID: 0}
+    _text:
+    - Good. Cat, make your jump with care. Ghost, guide Cat and ensure both of you
+      pass safely.
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - "(Determined) Meow, I\u2019m ready. Here I go!"
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Floating upward) I\u2019m with you, Cat. Let\u2019s get through this together."
+    _audioClip: {fileID: 0}

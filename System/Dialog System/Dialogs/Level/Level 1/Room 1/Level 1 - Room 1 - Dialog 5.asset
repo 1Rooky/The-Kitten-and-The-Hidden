@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de941ea5289e528478b9a1cc0270304e, type: 3}
+  m_Name: Level 1 - Room 1 - Dialog 5
+  m_EditorClassIdentifier: 
+  _dialog:
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Approaches the Cat and the Ghost with a serious expression) Hello again, you
+      two. I have an important task for you.
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Ears perk up) Meow? What is it?
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - (Floats closer, attentive) Yes, what do we need to do?
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "(Points to a distant, glowing light) There\u2019s a big crystal you need to
+      collect. It\u2019s essential for your journey."
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "(Smiling) The crystal holds the power to open the portal to the next area.
+      Without it, you won\u2019t be able to continue your quest."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Determinedly) Meow, we can handle it.
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Nods confidently) Yes, we\u2019ll retrieve the crystal and use it to open
+      the portal."
+    _audioClip: {fileID: 0}
+  - _name: Unkown
+    _image: {fileID: 0}
+    _text:
+    - "(Smiles approvingly) I believe in you. Work together, stay focused, and you\u2019ll
+      succeed."
+    _audioClip: {fileID: 0}
+  _afterDialog:
+  - _name: Unkown
+    _image: {fileID: 0}
+    _text:
+    - "(Approaches the Cat and the Ghost, looking concerned) Hey there, you two.
+      How\u2019s everything going?"
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - "(Flicks tail, looking determined) Meow, we\u2019re making progress."
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Nods) Yes, but it\u2019s been challenging."
+    _audioClip: {fileID: 0}
+  - _name: Unkown
+    _image: {fileID: 0}
+    _text:
+    - (Nods understandingly) Remember, your current mission is to collect the big
+      crystal from the Enchanted Grove.
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - "(Curiously) Meow? The crystal, right. Can you remind us why it\u2019s so important?"
+    _audioClip: {fileID: 0}
+  - _name: Unkown
+    _image: {fileID: 0}
+    _text:
+    - "(Smiling) The crystal holds the power to open the portal to the next area.
+      Without it, you can\u2019t continue your journey."
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - (Thoughtfully) We need to stay focused and retrieve that crystal.
+    _audioClip: {fileID: 0}
+  - _name: Unkown
+    _image: {fileID: 0}
+    _text:
+    - (Encouragingly) Exactly. The crystal is hidden deep within the grove, guarded
+      by magical creatures. Be cautious and work together.
+    _audioClip: {fileID: 0}

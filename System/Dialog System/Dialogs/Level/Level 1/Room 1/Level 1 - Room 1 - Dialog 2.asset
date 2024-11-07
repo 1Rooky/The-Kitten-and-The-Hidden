@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de941ea5289e528478b9a1cc0270304e, type: 3}
+  m_Name: Level 1 - Room 1 - Dialog 2
+  m_EditorClassIdentifier: 
+  _dialog:
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Approaches the Cat and the Ghost) Hello again, you two. I have some crucial
+      information that will help you on your journey.
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Looks at the Ghost) Ghost, you have a special ability to possess objects,
+      correct?
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - (Nods) Yes, I can. How will that help us now?
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Points to a large object blocking the path) There is a big object up ahead
+      that is blocking your way. Ghost, if you possess that object, you can move
+      it aside to clear a path.
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Eyes widen) Meow! That will help a lot. But how does it benefit me?
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Smiles) Once the Ghost moves the object, it will create a platform for you,
+      Cat. You can then jump over it and pass through the obstacle.
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Nods confidently) I understand. I\u2019ll possess the object and move it."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - "(Purrs with excitement) Meow, let\u2019s do it!"
+    _audioClip: {fileID: 0}
+  _afterDialog:
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Curiously) Meow? Can you remind us what we need to do?
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Smiling) Of course. The puzzle requires you to move the box inorder for the
+      cat to jump on it.
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - (Thoughtfully) Ah, yes. And we need to use our unique abilities to move the
+      box correctly.
+    _audioClip: {fileID: 0}
+  - _name: Unkown
+    _image: {fileID: 0}
+    _text:
+    - Exactly. Ghost, your ability to possess objects will be key here. You can lift
+      the box and position them precisely.
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Nods) Thank you for the reminder. We\u2019ll get back to it."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - "(Determined) Meow, let's go. We\u2019ve got this!"
+    _audioClip: {fileID: 0}

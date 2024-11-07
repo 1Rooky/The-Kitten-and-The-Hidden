@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de941ea5289e528478b9a1cc0270304e, type: 3}
+  m_Name: Level 1 - Room 1 - Dialog 1
+  m_EditorClassIdentifier: 
+  _dialog:
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Emerges from the shadows, looking at the Cat and the Ghost) Greetings, travelers.
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Ears perk up) Meow? Who are you?
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - (Floats closer, studying the NPC) Yes, we haven't seen you before. What do
+      you want from us?
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Smiles mysteriously) Who I am is not important right now. What matters is
+      the mission ahead. I have information that can help you in your quest.
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Leans in slightly) There is a big crystal, full of immense power. This crystal
+      is crucial if you wish to defeat the enemies threatening this realm.
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Points towards the distant mountains) It's hidden deep within the Forgotten
+      Cavern, guarded by fierce creatures and ancient traps. You'll need to be careful
+      and cunning to reach it.
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Nods approvingly) Once you have the crystal, its power will amplify your abilities.
+      Use it to turn the tide against your foes. But remember, time is of the essence.
+      The enemies are also seeking this power.
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Determined) Meow, we won't fail.
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - (Gives a final nod) We will retrieve the crystal and use its power to protect
+      this land.
+    _audioClip: {fileID: 0}
+  _afterDialog:
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "(Nods, smiling) Ah, you two. I see you\u2019re making good progress. But remember,
+      your primary mission is still ahead."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Curious) Meow? Which mission?
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Slightly chuckling) The crystal, remember? The big crystal full of immense
+      power hidden in the Forgotten Cavern.
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Leans forward, eyes serious) Challenges are to be expected. But do not lose
+      focus. The enemies are still searching for the crystal. You must reach it before
+      they do.
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - "(Determined) Meow, we\u2019re ready. We will find the crystal and use its
+      power."
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Solemnly) We understand the importance. We\u2019ll stay focused and vigilant."
+    _audioClip: {fileID: 0}

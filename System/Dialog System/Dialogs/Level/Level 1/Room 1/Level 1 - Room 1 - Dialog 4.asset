@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de941ea5289e528478b9a1cc0270304e, type: 3}
+  m_Name: Level 1 - Room 1 - Dialog 4
+  m_EditorClassIdentifier: 
+  _dialog:
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "(Smiling warmly as the Cat and the Ghost approach) Well done, you two! You\u2019ve
+      successfully solved the puzzle."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Purring happily) Meow! We did it!
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - (Nods, glowing slightly) Yes, it was challenging, but we worked together.
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "(Nods approvingly) And you did an excellent job. As a reward for your efforts,
+      I\u2019ll give you a gem that can open the door."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Excitedly) Meow, thank you!
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - (Gratefully) We appreciate your help.
+    _audioClip: {fileID: 0}
+  _afterDialog:
+  - _name: Unkown
+    _image: {fileID: 0}
+    _text:
+    - (Watches as the Cat and the Ghost step through the newly opened gate) Well
+      done again, both of you. You've made great progress.
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - "(Purrs, looking around) Meow, thank you. What\u2019s next?"
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - (Nods, hovering beside the Cat) Yes, what should we do now?
+    _audioClip: {fileID: 0}
+  - _name: Unkown
+    _image: {fileID: 0}
+    _text:
+    - "(Smiles encouragingly) Remember, your journey isn\u2019t over yet. You need
+      to continue your way forward."
+    _audioClip: {fileID: 0}
+  - _name: Unkown
+    _image: {fileID: 0}
+    _text:
+    - "(Points down a winding path) Follow this path. It will lead you to the ancient
+      temple where you\u2019ll find the next clue to your mission."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - "(Nods) Meow, we\u2019ll remember."
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Floats ahead, looking back) Farewell for now. We\u2019ll see you again."
+    _audioClip: {fileID: 0}
+  - _name: Unkown
+    _image: {fileID: 0}
+    _text:
+    - "(Watches them as they start down the path) Farewell, and stay safe on your
+      journey. You\u2019re doing great."
+    _audioClip: {fileID: 0}

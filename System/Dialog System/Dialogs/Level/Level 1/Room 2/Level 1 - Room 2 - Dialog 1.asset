@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de941ea5289e528478b9a1cc0270304e, type: 3}
+  m_Name: Level 1 - Room 2 - Dialog 1
+  m_EditorClassIdentifier: 
+  _dialog:
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Gazes around cautiously) There are enemies roaming nearby. Nasty bunch, causing
+      trouble for everyone.
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - (Floats closer, concerned) Enemies? What kind?
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "(Frowning) Mushrooms mostly, but there are rumors of something darker in the
+      woods. They\u2019ve been raiding caravans and ambushing travelers."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Ears twitching) Meow, that sounds dangerous.
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "(Nods) It is. So, keep your eyes open, Cat. You\u2019re quick and stealthy,
+      I know you can handle yourself."
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "(Gives a reassuring pat to the Cat and gestures to the Ghost) Take care, my
+      friends. Watch each other\u2019s backs out there."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - "(Nuzzles against the NPC\u2019s leg) Meow."
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - Farewell.
+    _audioClip: {fileID: 0}
+  _afterDialog:
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - "Remember why you\u2019re here. Your mission is important, not just for yourselves,
+      but for everyone in this realm. Don\u2019t lose sight of that."
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Looks up with curiosity) Meow?
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Nods solemnly) We won\u2019t forget."
+    _audioClip: {fileID: 0}
+  - _name: Unknown
+    _image: {fileID: 0}
+    _text:
+    - (Smiles warmly) Good. Stay focused and stay safe. The fate of this place may
+      rest on your shoulders.
+    _audioClip: {fileID: 0}
+  - _name: Cat
+    _image: {fileID: 0}
+    _text:
+    - (Puffs up proudly) Meow!
+    _audioClip: {fileID: 0}
+  - _name: Ghost
+    _image: {fileID: 0}
+    _text:
+    - "(Floats closer to the Cat) Together, we\u2019ll see this through."
+    _audioClip: {fileID: 0}
