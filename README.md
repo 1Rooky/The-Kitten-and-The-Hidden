@@ -17,7 +17,7 @@ This repository serves as a submodule containing the primary scripts for the mai
 ### Art Team
 | Name             | LinkedIn                                                                 |
 |------------------|--------------------------------------------------------------------------|
-| Mariam Wafaa     | [Link](https://www.linkedin.com/in/mariam-abdelkader-wfa/)                  |
+| Mariam Wafa     | [Link](https://www.linkedin.com/in/mariam-abdelkader-wfa/)                  |
 | Yasmeen El-Salawy| [Link](https://www.linkedin.com/in/yasmeen-el-salawy-71519a264/)          |
 | Marina Adly      | [Link](https://www.linkedin.com/in/marina-adly-aziz/)   |
 
